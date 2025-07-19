@@ -23,16 +23,13 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 My favorite apps:
 - Tik Tok
-  video editing tools
-  sharing fun videos with friends
+  video editing tools & sharing fun videos with friends
   
 - Spotify
-  yearly recap of listening habits
-  sharing playlists with friends
+  yearly recap of listening habits & sharing playlists with friends
   
 - Instagram
-  sharing stories wtih selected friends with close friends list
-  hiding online status
+  sharing stories wtih selected friends with close friends list & hiding online status
   
 App idea:
 A study app that helps users focus by locking users phone for a certain period. However, users can still allow certain apps like Notes or Google to help with studying. It tracks how long you stay focused and gives users daily, weekly, or monthly reports to show users progress.
